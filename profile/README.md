@@ -1,7 +1,7 @@
 ## GARBO (Garbage Organizer)
 
 ### GARBO (Garbage Organizer): Your Future Solution to Indonesia Emas 2045
-#### GARBO's core objective is to empower users to efficiently classify and manage diverse waste types, thus contributing to enhanced waste management, recycling, and environmental sustainability. Operating under the Sustainable Living theme, GARBO aligns with Indonesia's "Indonesia Emas 2045" vision, providing a vital solution to the country's waste challenge. By offering a user-friendly and accessible platform, GARBO aims to mitigate environmental damage, diminish health hazards, and capture the opportunities lost in recycling. Community involvement is vital, and GARBO encourages informed waste disposal decisions, fostering a cleaner, more sustainable future for Indonesia.
+<p> GARBO's core objective is to empower users to efficiently classify and manage diverse waste types, thus contributing to enhanced waste management, recycling, and environmental sustainability. Operating under the Sustainable Living theme, GARBO aligns with Indonesia's "Indonesia Emas 2045" vision, providing a vital solution to the country's waste challenge. By offering a user-friendly and accessible platform, GARBO aims to mitigate environmental damage, diminish health hazards, and capture the opportunities lost in recycling. Community involvement is vital, and GARBO encourages informed waste disposal decisions, fostering a cleaner, more sustainable future for Indonesia. </p>
 
 ### Team ID		: CH2-PS535
 ### Team Member	: 
